@@ -1,0 +1,19 @@
+KPI Requirements
+
+1. Total Vaccinations Administered Per Country
+-> Definition: Sum of all doses given across each of the selected countries in the chosen time period.
+
+2. People Vaccinated (at least 1 dose)
+-> Definition: Total number of individuals who have received at least one dose.
+
+3. Fully Vaccinated People
+-> Definition: Total number of individuals who have completed the vaccination schedule.
+
+4. Average Daily Vaccinations
+-> Definition: Average number of doses administered per day across all countries in the dataset.
+
+5. Highest Single-Day Vaccination Count (Country)
+-> Definition: The highest daily vaccinations achieved by a country in the selected time range.
+
+6. Top Performing Country (by Total Vaccinations)
+-> Definition: Country with highest total vaccinations administered.
